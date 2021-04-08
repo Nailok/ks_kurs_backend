@@ -1,0 +1,255 @@
+GET http://127.0.0.1:8000/api/data/1/
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6Im5ld3VzZXIiLCJleHAiOjE1ODY0MTI2MzQsImVtYWlsIjoiZmZmZmZAcnJycnIucnUiLCJvcmlnX2lhdCI6MTU1NDg3NjYzNH0.rmc1MZTV0BGltu3ttIsbJmqplTE8N44iw-XLTuLgBSQ
+Content-Type: application/json
+
+<> 2019-04-10T112844.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/data/
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6Im5ld3VzZXIiLCJleHAiOjE1ODY0MTI2MzQsImVtYWlsIjoiZmZmZmZAcnJycnIucnUiLCJvcmlnX2lhdCI6MTU1NDg3NjYzNH0.rmc1MZTV0BGltu3ttIsbJmqplTE8N44iw-XLTuLgBSQ
+Content-Type: application/json
+
+<> 2019-04-10T102123.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/data/
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6Im5ld3VzZXIiLCJleHAiOjE1ODY0MTI2MzQsImVtYWlsIjoiZmZmZmZAcnJycnIucnUiLCJvcmlnX2lhdCI6MTU1NDg3NjYzNH0.rmc1MZTV0BGltu3ttIsbJmqplTE8N44iw-XLTuLgBSQ
+Content-Type: application/json
+
+<> 2019-04-10T102108.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/data/
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6Im5ld3VzZXIiLCJleHAiOjE1ODY0MTI2MzQsImVtYWlsIjoiZmZmZmZAcnJycnIucnUiLCJvcmlnX2lhdCI6MTU1NDg3NjYzNH0.rmc1MZTV0BGltu3ttIsbJmqplTE8N44iw-XLTuLgBSQ
+Content-Type: application/json
+
+<> 2019-04-10T101501.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/data/
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6Im5ld3VzZXIiLCJleHAiOjE1ODY0MTI2MzQsImVtYWlsIjoiZmZmZmZAcnJycnIucnUiLCJvcmlnX2lhdCI6MTU1NDg3NjYzNH0.rmc1MZTV0BGltu3ttIsbJmqplTE8N44iw-XLTuLgBSQ
+Content-Type: application/json
+
+{
+  "firstname": "dsdlaskdasdasdas"
+}
+
+<> 2019-04-10T101450.201.json
+
+###
+
+POST http://127.0.0.1:8000/api/data/
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6Im5ld3VzZXIiLCJleHAiOjE1ODY0MTI2MzQsImVtYWlsIjoiZmZmZmZAcnJycnIucnUiLCJvcmlnX2lhdCI6MTU1NDg3NjYzNH0.rmc1MZTV0BGltu3ttIsbJmqplTE8N44iw-XLTuLgBSQ
+Content-Type: application/json
+
+{
+  "firstname": "dsdlaskdasdasdas"
+}
+
+<> 2019-04-10T101353.500.txt
+
+###
+
+POST http://127.0.0.1:8000/api/data/
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6Im5ld3VzZXIiLCJleHAiOjE1ODY0MTI2MzQsImVtYWlsIjoiZmZmZmZAcnJycnIucnUiLCJvcmlnX2lhdCI6MTU1NDg3NjYzNH0.rmc1MZTV0BGltu3ttIsbJmqplTE8N44iw-XLTuLgBSQ
+Content-Type: application/json
+
+{
+  "firstname": "Антон"
+}
+
+<> 2019-04-10T101228.500.txt
+
+###
+
+GET http://127.0.0.1:8000/api/data/
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6Im5ld3VzZXIiLCJleHAiOjE1ODY0MTI2MzQsImVtYWlsIjoiZmZmZmZAcnJycnIucnUiLCJvcmlnX2lhdCI6MTU1NDg3NjYzNH0.rmc1MZTV0BGltu3ttIsbJmqplTE8N44iw-XLTuLgBSQ
+Content-Type: application/json
+
+<> 2019-04-10T101115.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/token/
+Content-Type: application/json
+
+{ "username":"newuser",
+  "password": "123"
+}
+
+<> 2019-04-10T101034.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/data/
+Content-Type: application/json
+
+<> 2019-04-10T100920.403.json
+
+###
+
+GET http://127.0.0.1:8000/api/data/
+Content-Type: application/json
+
+###
+
+POST http://127.0.0.1:8000/api/token/
+Content-Type: application/json
+
+{ "username":"newuser",
+  "password": "123"
+}
+
+<> 2019-04-09T045921.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/token/
+Content-Type: application/json
+
+{ "username":"newuser",
+  "password": "123"
+}
+
+###
+
+POST http://127.0.0.1:8000/api/client/reguser/
+Content-Type: application/json
+
+{ "username":"newuser",
+  "email":"fffff@rrrrr.ru",
+  "password": "123"
+}
+
+<> 2019-04-09T043311.400.json
+
+###
+
+POST http://127.0.0.1:8000/api/client/reguser/
+Content-Type: application/json
+
+{ "username":"newuser",
+  "email":"fffff@rrrrr.ru",
+  "password": "123"
+}
+
+<> 2019-04-09T043253.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/client/reguser/
+Content-Type: application/json
+
+{}
+
+<> 2019-04-09T041923.500.txt
+
+###
+
+POST http://127.0.0.1:8000/api/client/reguser/
+Content-Type: application/json
+
+{}
+
+<> 2019-04-09T041753.500.txt
+
+###
+
+GET http://127.0.0.1:8000/api/client/
+Content-Type: application/json
+
+<> 2019-04-09T040426.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/client/
+Content-Type: application/json
+
+<> 2019-04-09T040307.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/client/
+Content-Type: application/json
+
+<> 2019-04-09T025654.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/client/
+Content-Type: application/json
+
+###
+
+GET http://127.0.0.1:8000/api/client/
+Content-Type: application/json
+
+<> 2019-04-09T025400.404.html
+
+###
+
+GET http://127.0.0.1:8000/api/client/
+Content-Type: application/json
+
+<> 2019-04-09T020603.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/client/
+Content-Type: application/json
+
+<> 2019-04-09T020438.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/client/
+Content-Type: application/json
+
+<> 2019-04-09T020405.500.txt
+
+###
+
+GET http://127.0.0.1:8000/api/client/
+Content-Type: application/json
+
+<> 2019-04-09T020327.500.txt
+
+###
+
+GET http://127.0.0.1:8000/client/
+Content-Type: application/json
+
+<> 2019-04-09T020305.404.html
+
+###
+
+GET http://127.0.0.1:8000/client/
+Content-Type: application/json
+
+<> 2019-04-09T020249.404.html
+
+###
+
+GET http://127.0.0.1:8000/client/
+Content-Type: application/json
+
+###
+
+GET http://127.0.0.1:8000/client/
+Content-Type: application/json
+
+<> 2019-04-09T020140.404.html
+
+###
+
+GET http://127.0.0.1:8000/client/
+Content-Type: application/json
+
+<> 2019-04-09T015919.404.html
+
+###
+

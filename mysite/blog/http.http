@@ -1,0 +1,36 @@
+###
+GET http://127.0.0.1:8000/api/client/
+Content-Type: application/json
+
+###
+POST http://127.0.0.1:8000/api/client/reguser/
+Content-Type: application/json
+
+{ "username":"newuser",
+  "email":"fffff@rrrrr.ru",
+  "password": "123"
+}
+
+###
+POST http://127.0.0.1:8000/api/token/
+Content-Type: application/json
+
+{ "username":"newuser",
+  "password": "123"
+}
+
+###
+GET http://127.0.0.1:8000/api/data/1/
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6Im5ld3VzZXIiLCJleHAiOjE1ODY0MTI2MzQsImVtYWlsIjoiZmZmZmZAcnJycnIucnUiLCJvcmlnX2lhdCI6MTU1NDg3NjYzNH0.rmc1MZTV0BGltu3ttIsbJmqplTE8N44iw-XLTuLgBSQ
+Content-Type: application/json
+
+###
+POST http://127.0.0.1:8000/api/data/
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6Im5ld3VzZXIiLCJleHAiOjE1ODY0MTI2MzQsImVtYWlsIjoiZmZmZmZAcnJycnIucnUiLCJvcmlnX2lhdCI6MTU1NDg3NjYzNH0.rmc1MZTV0BGltu3ttIsbJmqplTE8N44iw-XLTuLgBSQ
+Content-Type: application/json
+
+{
+  "firstname": "dsdlaskdasdasdas"
+}
+
+###
